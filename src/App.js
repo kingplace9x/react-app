@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import 'bootstrap/dist/css/bootstrap.css';
 import './App.css'
 import Item from './Item';
-import weather from 'weather-js';
 
 import { Line } from 'react-chartjs-2';
 
